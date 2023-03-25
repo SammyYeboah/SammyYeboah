@@ -4,7 +4,7 @@
 
 **SammyYeboah/SammyYeboah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Developing coding skills for Software Engineering👴.....I'm a beginner.🤸‍♂️🤘
 - 🌱 I’m currently learning Full Stack Software Engineering @ALX👨‍🎓
