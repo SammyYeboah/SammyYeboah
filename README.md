@@ -2,7 +2,6 @@
 ### Hi there! 👋, I'm Samuel.
  And you?
 
-<!--
 **SammyYeboah/SammyYeboah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.instagram.com/sammy_d33d3w/ 👨‍🦳
 - 😄 Pronouns: Him/He🙄
 - ⚡ Fun fact: I love learning new technologies😛
--->
