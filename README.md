@@ -1,5 +1,5 @@
-###![image](https://user-images.githubusercontent.com/124172439/227714616-16aad57c-dee0-4d13-a1d5-0a1478ebff4d.png)
- Hi there 👋, I'm Samuel.
+[image](https://user-images.githubusercontent.com/124172439/227714616-16aad57c-dee0-4d13-a1d5-0a1478ebff4d.png)
+### Hi there! 👋, I'm Samuel.
  And you?
 
 <!--
@@ -7,12 +7,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Developing coding skills for Software Engineering👴.....I'm a beginner.🤸‍♂️🤘
+- 🌱 I’m currently learning Full Stack Software Engineering @ALX👨‍🎓
+- 🤔 I’m looking for help with Creating apps🤖🚀🪐
+- 💬 Ask me about anything at all.😎
+- 📫 How to reach me: https://www.instagram.com/sammy_d33d3w/ 👨‍🦳
+- 😄 Pronouns: Him/He🙄
+- ⚡ Fun fact: I love learning new technologies😛
 -->
