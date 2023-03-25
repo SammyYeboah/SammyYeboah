@@ -7,7 +7,7 @@
 
 Y . M . K;
 
-- 🔭 I’m currently working on Developing coding skills for Software Engineering👴.....I'm a beginner.🤸‍♂️🤘
+- 🔭 I’m currently working on Developing coding skills for Software Engineering👴.....👶👶👶I'm a beginner.🤸‍♂️🤘
 - 🌱 I’m currently learning Full Stack Software Engineering @ALX👨‍🎓
 - 🤔 I’m looking for help with Creating apps🤖🚀🪐
 - 💬 Ask me about anything at all.😎
