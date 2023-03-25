@@ -1,5 +1,6 @@
 ###![image](https://user-images.githubusercontent.com/124172439/227714616-16aad57c-dee0-4d13-a1d5-0a1478ebff4d.png)
- Hi there 👋
+ Hi there 👋, I'm Samuel.
+ And you?
 
 <!--
 **SammyYeboah/SammyYeboah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
