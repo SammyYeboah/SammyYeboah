@@ -5,7 +5,8 @@
  And you?
 
 
-**YOU MUST KNOW;
+Y . M . K;
+
 - 🔭 I’m currently working on Developing coding skills for Software Engineering👴.....I'm a beginner.🤸‍♂️🤘
 - 🌱 I’m currently learning Full Stack Software Engineering @ALX👨‍🎓
 - 🤔 I’m looking for help with Creating apps🤖🚀🪐
@@ -14,8 +15,9 @@
 - 😄 Pronouns: Him/He🙄
 - ⚡ Fun fact: I love learning new technologies😛
 
-**BE COOL WITH ME AND I'LL RECIPROCATE.
-**😎Loyalty is key🔑✔Follow and I'll follow back🤝
+BE COOL WITH ME AND I'LL RECIPROCATE.
+
+😎Loyalty is key🔑✔Follow and I'll follow back🤝
 
 Let's get in touch: 
 
