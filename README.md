@@ -12,6 +12,7 @@
 - 😄 Pronouns: Him/He🙄
 - ⚡ Fun fact: I love learning new technologies😛
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SammyYeboah)](https://git.io/streak-stats)
 BE COOL WITH ME AND I'LL RECIPROCATE.
 
 😎Loyalty is key🔑✔Follow and I'll follow back🤝
