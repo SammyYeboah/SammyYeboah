@@ -1,6 +1,4 @@
-[This Is Me/Hello Guys!](https://user-images.githubusercontent.com/124172439/227718251-5b64e74a-93bf-464f-98f7-c12d0229c590.jpg)
-
-[El Gato](https://user-images.githubusercontent.com/124172439/227714616-16aad57c-dee0-4d13-a1d5-0a1478ebff4d.png)
+[El Gato d'ALX](https://user-images.githubusercontent.com/124172439/227714616-16aad57c-dee0-4d13-a1d5-0a1478ebff4d.png)
 ### Hi there! 👋, I'm Samuel.
  And you?
 
