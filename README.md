@@ -7,8 +7,8 @@
 
 ### Y . M . K;
 
-- 🔭 I’m currently working on Developing coding skills for Software Engineering👴.....👶👶👶I'm a beginner.🤸‍♂️🤘
-- 🌱 I’m currently learning Full Stack Software Engineering @ALX👨‍🎓
+- 🔭 I’m currently working on Developing coding skills for Software Engineering and WebDev👴.....👶👶👶I'm a beginner.🤸‍♂️🤘
+- 🌱 I’m currently studying IT @ Accra Institute of Technology👨‍🎓
 - 💬 Ask me about anything at all.😎
 - 📫 How to reach me: https://www.instagram.com/sammy_d33d3w/ 👨‍🦳
 - 😄 Pronouns: Him/He🙄
